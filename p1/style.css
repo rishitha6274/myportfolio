@@ -27,7 +27,8 @@ header a{
     flex-wrap: wrap;
 }
 .box{
-    width: 600px;
+    width: 500px;
+    padding: 30px;
 }
 .btn-signup{
     background-color: orange;
